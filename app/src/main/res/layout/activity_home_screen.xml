@@ -67,7 +67,7 @@ tools:context="com.example.hallboard.HomeScreen">
                         android:layout_height="wrap_content"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Blue"
                         android:textAlignment="viewStart"
                         android:textSize="30sp" />
 
@@ -79,8 +79,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -90,11 +97,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -104,8 +123,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -115,11 +141,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -129,8 +167,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -140,11 +185,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -154,8 +211,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -165,11 +229,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -179,8 +255,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -190,11 +273,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -204,8 +299,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -215,11 +317,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -229,8 +343,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -240,11 +361,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -254,8 +387,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -265,11 +405,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -279,8 +431,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -290,11 +449,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -304,8 +475,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -315,11 +493,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -329,8 +519,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -340,11 +537,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
@@ -354,8 +563,15 @@ tools:context="com.example.hallboard.HomeScreen">
             <android.support.v7.widget.CardView
 
                 xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="120dp"
+                android:layout_marginBottom="2dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginRight="2dip"
+                android:layout_marginTop="2dip"
+                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -365,11 +581,23 @@ tools:context="com.example.hallboard.HomeScreen">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_centerHorizontal="true"
-                        android:text="@string/event"
+                        android:text="Smoking on the 4th floor"
                         android:textAlignment="viewStart"
+                        android:textColor="@android:color/black"
                         android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerHorizontal="true"
+                        android:text="4:20pm, bring snacks"
+                        android:textAlignment="viewStart"
+                        android:textSize="20sp" />
 
                 </RelativeLayout>
 
