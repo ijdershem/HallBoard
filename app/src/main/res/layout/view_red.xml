@@ -74,7 +74,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="Smoking on the 4th floor"
+        android:text="Cookies"
         android:textColor="@android:color/background_light"
         android:textSize="28sp"
         android:textStyle="bold"
