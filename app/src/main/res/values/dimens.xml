@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="activity_horizontal_margin" />
+    <dimen name="CardHeight">150dp</dimen>
+    <dimen name="cMarginBottom">4dp</dimen>
+    <dimen name="cMarginLeft">4dp</dimen>
+    <dimen name="cMarginRight">4dp</dimen>
+
 </resources>
