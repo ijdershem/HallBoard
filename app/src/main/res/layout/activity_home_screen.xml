@@ -60,7 +60,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -103,7 +103,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -146,7 +146,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -189,7 +189,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -232,7 +232,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -275,7 +275,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -318,7 +318,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -361,7 +361,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
@@ -404,7 +404,7 @@ tools:context="com.example.hallboard.HomeScreen">
                 android:layout_marginBottom="@dimen/cMarginBottom"
                 android:layout_marginLeft="@dimen/cMarginLeft"
                 android:layout_marginRight="@dimen/cMarginRight"
-                card_view:cardBackgroundColor="@android:color/holo_blue_bright"
+                card_view:cardBackgroundColor="@android:color/holo_blue_light"
                 card_view:cardUseCompatPadding="true">
 
                 <RelativeLayout
